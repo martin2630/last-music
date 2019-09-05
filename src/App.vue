@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <img src="https://martin2630.github.io/last-music/dist/logo.png">
     <h1> Platzi music</h1>
     <h3>Selecciona un país</h3>
     <select name="" id="" v-model="selectedCountry">
